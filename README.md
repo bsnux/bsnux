@@ -14,6 +14,7 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Go
 * C
 * Python
+* Groovy
 
 ## ⚡ Fun facts
 * First computer: PC 486 DX2 running MS-DOS 6.0 & Red Hat 5.2
