@@ -14,6 +14,7 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Go
 * C
 * Python
+* Ruby
 * Groovy
 
 ## ⚡ Fun facts
