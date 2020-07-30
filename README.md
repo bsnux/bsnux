@@ -11,15 +11,20 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Grown & Learn
 
 ## 🖥 Programming languages
+### Concurrency, servers, CLI, and cloud
 * Go
-* C
+### Everyday scripting
 * Python
-* Ruby
+* Perl
+* shell (bash, zsh)
+### OS low leel
+* C
+### Java interop, Jenkins
 * Groovy
 
 ## ⚡ Fun facts
 * First computer: PC 486 DX2 running MS-DOS 6.0 & Red Hat 5.2
-* Latest computer: MacBook Air
+* Latest computer: MacBook Air 2019
 * Using GNU/Linux since 1996
 * Favorite text editors: Vim, Emacs, Sublime Text
 * I have written 4 books and hundred of articles about Linux and programming
