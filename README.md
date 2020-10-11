@@ -15,10 +15,8 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Go
 ### Everyday scripting
 * Python
-* Perl
+* Ruby
 * shell (bash, zsh)
-### OS low leel
-* C
 ### Java interop, Jenkins
 * Groovy
 
