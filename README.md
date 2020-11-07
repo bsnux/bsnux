@@ -19,6 +19,8 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Python
 * Perl
 * shell (bash, zsh)
+### Systems programming, memory manipulation, performance
+* C
 ### Java interop, Jenkins
 * Groovy
 
