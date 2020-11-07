@@ -11,9 +11,9 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Grown & Learn
 
 ## 🖥 Programming languages
-### Infrastructure, cloud, web services
+### Infrastructure, cloud, web services, CLI
 * Python
-### Concurrency, parallelism
+### Concurrency, parallelism, CLI
 * Go
 ### Everyday scripting
 * Python
