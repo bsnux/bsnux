@@ -3,6 +3,7 @@ I'm a Software and DevOps Engineer who also write technical books about Linux
 and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 
 [CKA: Certified Kubernetes Administrator](https://www.youracclaim.com/badges/a93b25a9-08cf-468f-8110-401316e62565/public_url)
+
 [LFCS: Linux Foundation Certified Systems Administrator](https://www.youracclaim.com/badges/18a818d8-16a5-48fa-93da-4abb5c45d6d8/public_url)
 
 ## 💪 Values
