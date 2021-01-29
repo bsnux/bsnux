@@ -19,7 +19,7 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Go
 ### Everyday scripting
 * Python
-* Perl
+* Ruby
 * shell (bash, zsh)
 ### Systems programming, memory manipulation, performance
 * C
