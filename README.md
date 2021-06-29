@@ -13,17 +13,16 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 * Grown & Learn
 
 ## 🖥 Programming languages
-### Infrastructure, cloud, web services, CLI
+### Infrastructure, cloud, CLI
 * Python
+### Non-blocking, event-driven web services
+* Node.js, JavaScript, TypeScript
 ### Concurrency, parallelism, CLI
 * Go
 ### Everyday scripting
 * Python
-* Ruby
 * Perl
 * shell (bash, zsh)
-### Systems programming, memory manipulation, performance
-* C
 ### Java interop, Jenkins
 * Groovy
 
