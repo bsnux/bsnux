@@ -14,14 +14,14 @@ and programming. I live in the beautiful and sunny city of Los Angeles, CA.
 
 ## 🖥 Programming languages
 ### Infrastructure, cloud, CLI
-* Python
+* Go, Python, TypeScript
 ### Non-blocking, event-driven web services
-* Node.js, JavaScript, TypeScript
+* TypeScript
 ### Concurrency, parallelism, CLI
 * Go
 ### Everyday scripting
 * Python
-* Perl
+* TypeScript (Deno)
 * shell (bash, zsh)
 ### Java interop, Jenkins
 * Groovy
